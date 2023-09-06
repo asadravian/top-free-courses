@@ -1507,7 +1507,7 @@ Still need a motivation to get started today? Here you go:
 
 Stay connected for any mentorship or guidance throughout your learning journey:
 
-Muhammad Asadullah from Pakistan
+Muhammad Asadullah 🙏
 * https://linkedin.com/in/asadravian
 * https://dev.to/asadravian
 * https://medium.com/@asadravian
@@ -1517,4 +1517,4 @@ Muhammad Asadullah from Pakistan
 * https://adplist.org/mentors/muhammad-asadullah-ravian (book 1-1 free online coaching session)
 * https://asad.blog
 
-Good luck, champ! I believe in you and that YOU can do it!!
+Best wishes!! just do it and leave no regrets!! 🔥
