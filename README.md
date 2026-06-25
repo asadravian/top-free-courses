@@ -1,5 +1,12 @@
 [Feel free to Star, Fork and Share. Stay connected and inbox for free career coaching via Linkedin: https://linkedin.com/in/masad1 ] 
 # top-free-courses
+
+# Top 3 AI Learning Platforms:
+- Anthropic Academy: https://www.anthropic.com/learn (Get in the know with Anthropic resources. From API development guides to enterprise deployment best practices, the academy has you covered. New courses available on Anthropic Academy. Learn more in-depth about AI Fluency, API development, Model Context Protocol and Claude Code. Earn certificates upon completion.)
+- OpenAI Academy: https://academy.openai.com/ (Unlock the opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively.)
+- Deeplearning AI: https://learn.deeplearning.ai/ (AI courses. Grow your AI career with foundational specializations and skill-specific short courses taught by leaders in the field.)
+
+
 ### Index
 
 * [MOOC](#mooc)
@@ -1509,11 +1516,11 @@ Still need a motivation to get started today? Here you go:
 Stay connected for any mentorship or guidance throughout your learning journey:
 
 Muhammad Asadullah 🙏
-* https://linkedin.com/in/asadravian
-* https://dev.to/asadravian
-* https://medium.com/@asadravian
+* [https://linkedin.com/in/masad1](https://www.linkedin.com/in/masad1)
+* https://dev.to/asad1
+* https://medium.com/@asad101
 * https://github.com/asadravian
-* https://twitter.com/asadRavian7
+* https://x.com/aiwithasad
 * https://stackoverflow.com/users/5323892/asadullah
 * https://adplist.org/mentors/muhammad-asadullah-ravian (book 1-1 free online coaching session)
 * https://asad.blog
